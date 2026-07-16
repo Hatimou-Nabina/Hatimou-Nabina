@@ -1,23 +1,24 @@
-<h1 align="center">Salut, je suis Hatimou ! 👋</h1>
+<h1 align="center">Hi, I'm Hatimou 👋 — Full Stack Developer</h1>
 
 <p align="center">
-  <b>Développeur passionné par la création d'applications robustes et scalables.<br/>
-  Spécialisé en Full Stack avec un goût pour l'architecture modulaire.</b>
+  <b>TypeScript · Go · PHP · Java &nbsp;|&nbsp; APIs · Microservices · Clean Architecture</b>
 </p>
 
 <p align="center">
-  <i>"Code is Art - Chaque ligne compte"</i>
+  <i>"Code is Art — Craft it like it matters, because it does."</i>
 </p>
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About me
 
-- 🎓 **Étudiant** en Ingénierie Informatique à l'[IpNet Institute of Technology](https://ipnet-togo.com) et Diplomé en Licence Biologie Physiologie Animale à la [Faculté des Sciences de  l'Université de Lomé](https://paul.univ-lome.tg) (Togo)
-- 💻 **Full Stack Developer**, passionné par le craft
-- 🌍 Je viens du Togo 🇹🇬 et je travaille pour devenir meilleur chaque jour
-- 🎯 **Objectif** : Contribuer à des projets open source et créer des solutions qui font la différence
-- ⚡ **Philosophie** : Progress over perfection - La perfection est une destination, pas le chemin
+- 💻 **Full Stack Developer** — TypeScript, Go, PHP (Laravel), Java (Spring Boot), React, Next.js, Angular
+- 🔥 **Spécialités** : APIs REST haute performance, architectures modulaires & microservices, systèmes back-end robustes
+- ❤️ **Passions** : Software craftsmanship, open source, Clean Architecture, Domain-Driven Design
+- 🎓 Ingénierie Informatique — [IpNet Institute of Technology](https://ipnet-togo.com) | Licence Biologie — [Université de Lomé](https://paul.univ-lome.tg) (Togo)
+- 🌍 Basé au Togo 🇹🇬 — **Ouvert aux opportunités internationales & remote**
+- 🚀 **Vision** : Rejoindre des équipes d'excellence pour construire des produits à grande échelle et avoir un impact réel
+- ⚡ **Philosophie** : Clean code, pragmatisme et *progress over perfection - La perfection est une destination, pas le chemin*
 
 ---
 
@@ -47,7 +48,7 @@
 
 ## 🎯 Je cherche à collaborer sur
 
-- Projets **Java/Spring Boot** avec Spring Data, Security
+- Projets **Java/Spring Boot, TypeScript, Node.js, Go, NestJS** avec une architecture modulaire et des microservices
 - Applications **React/Angular/Next** modernes et performantes
 - Backends **Go**, **Nest**, **Laravel** ou **Django** robustes
 - Scripts d'automatisation et outils **Python**
