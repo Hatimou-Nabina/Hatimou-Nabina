@@ -1,0 +1,45 @@
+name: Update README stats cards
+
+on:
+  schedule:
+    # S'exécute tous les jours à minuit
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permet de lancer l'action manuellement depuis l'onglet Actions sur GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permet à l'action de pousser les images sur votre dépôt
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 1. Génération de la carte des statistiques globales
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
+          path: profile/github-stats.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      # 2. Génération de la carte des langages les plus utilisés
+      - name: Generate top-langs card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&hide=html&theme=dark
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT_TOKEN }}
+
+      # 3. Commit et Push des fichiers SVG générés dans le dépôt
+      - name: Commit and Push cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p profile
+          git add profile/*.svg
+          git commit -m "chore: update GitHub profile stats cards" || exit 0
+          git push

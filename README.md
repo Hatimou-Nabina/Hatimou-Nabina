@@ -74,15 +74,11 @@
 ## 📊 Un peu de stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hatimou-Nabina&layout=compact&hide=html&theme=dark" alt="Langages les plus utilisés" />
+  <img src="./profile/top-langs.svg" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <picture>
-    <source srcset="https://github-stats-extended.vercel.app/api?username=Hatimou-Nabina&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-stats-extended.vercel.app/api?username=Hatimou-Nabina&show_icons=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-stats-extended.vercel.app/api?username=Hatimou-Nabina&show_icons=true" alt="Stats GitHub" />
-  </picture>
+  <img src="./profile/github-stats.svg" alt="Stats GitHub" />
 </p>
 
 ---
