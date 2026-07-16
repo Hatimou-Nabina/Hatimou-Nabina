@@ -57,7 +57,7 @@
 - 🔧 **Back-end challenging** — Spring Boot, NestJS, Go, Laravel, microservices avec haute disponibilité
 - 🌐 **Full Stack** — React/Next/Angular + API robuste, expérience utilisateur soignée
 - 👥 **Open Source** — projets à impact, bien structurés, avec une vraie communauté
-- 🌱 **Startups ou scale-ups** cherchant un développeur investé, à la fois autonome et équipier solide
+- 🌱 **Startups ou scale-ups** cherchant un développeur investé, fiable, à la fois autonome et équipier solide
 - 🤝 **Toute équipe ambitieuse** où la qualité du code et l'architecture comptent autant que la vélocité
 
 ---
