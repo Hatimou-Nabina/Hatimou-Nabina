@@ -22,41 +22,61 @@
 
 ---
 
-## 🛠️ Compétences principales
+## 🛠️ Tech Stack
 
-**Langages** : Java, JavaScript, TypeScript, Python, PHP, HTML/CSS, Go
+**Languages** 
+`TypeScript` `JavaScript` `Go` `Java` `PHP` `Python` `HTML/CSS`
 
-**Frameworks & Librairies** :
+**Backend**
+`Spring Boot` `NestJS` `Node.js` `Laravel` `Django` `Flask` `Gin (Go)`
 
-- Backend : Spring Boot, NestJS, Laravel, Django, Flask, Node.js, Gin-GORM
-- Frontend : React, Next.js
-- Mobile : (à explorer bientôt)
+**Frontend**
+`React` `Next.js` `Angular`
 
-**Outils & Pratiques** : Git/GitHub, API REST, Architecture modulaire, SQL, ContextAPI, AsyncStorage, Axios, CI/CD
+**Databases & Infra**
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Docker` `Kubernetes` `AWS/GCP` `CI/CD` `REST APIs`
 
----
-
-## 🌱 Ce que j'apprends / Mes intérêts
-
-- 🚀 Approfondir Spring Boot pour des architectures d'entreprise
-- ⚛️ Maîtriser React dans les projets complexes
-- 🐍 Explorer l'écosystème Python avancé
-- 🎨 Améliorer mes compétences UX/UI
-- 🔄 Continuous Learning & DevOps basics
+**Practices & Patterns**
+`Clean Architecture` `DDD` `Microservices` `TDD` `Git/GitHub` `Agile`
 
 ---
 
-## 🎯 Je cherche à collaborer sur
+## 📈 Currently leveling up
 
-- Projets **Java/Spring Boot, TypeScript, Node.js, Go, NestJS** avec une architecture modulaire et des microservices
-- Applications **React/Angular/Next** modernes et performantes
-- Backends **Go**, **Nest**, **Laravel** ou **Django** robustes
-- Scripts d'automatisation et outils **Python**
-- N'importe quel autre projet pouvant m'aider à progresser ! 💪
+- ☁️ **Cloud & Infrastructure** — AWS / GCP, serverless, conteneurisation Docker/K8s
+- 🏗️ **System Design** — architecture distribuée, scalabilité, patterns à haute disponibilité
+- 🔐 **Sécurité applicative** — OWASP, OAuth2, authentification avancée
+- 🧠 **AI/LLM Integration** — intégration d'IA dans des applications métier réelles
+- 📐 **DDD & Clean Architecture** — approfondissement sur des codebases complexes
+- 🐦 **Go avancé** — performance, concurrence, APIs à très faible latence
 
 ---
 
-## 📫 Me contacter
+## 🎯 Looking to collaborate on
+
+- 🔧 **Back-end challenging** — Spring Boot, NestJS, Go, Laravel, microservices avec haute disponibilité
+- 🌐 **Full Stack** — React/Next/Angular + API robuste, expérience utilisateur soignée
+- 👥 **Open Source** — projets à impact, bien structurés, avec une vraie communauté
+- 🌱 **Startups ou scale-ups** cherchant un développeur investé, à la fois autonome et équipier solide
+- 🤝 **Toute équipe ambitieuse** où la qualité du code et l'architecture comptent autant que la vélocité
+
+---
+
+## 🏆 Featured Projects
+
+> La plupart de mes projets sont en dépôts privés — voici quelques réalisations clés :
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| **EduShare** | Plateforme de partage de ressources pédagogiques entre étudiants et enseignants | Next.js · NestJS · PostgreSQL |
+| **JMS** | Application web complète de gestion de garage (stocks, interventions, clients, facturation) | React · Go (Gin) · PostgreSQL |
+| **C2E Bulletin** | App web de gestion de bulletins pour automatiser les processus internes de C2E *(en cours)* | Angular · NestJS · PostgreSQL · TypeScript |
+
+> 📬 Vous travaillez sur un projet ambitieux ? [Contactez-moi !](mailto:devfreelancer001@gmail.com)
+
+---
+
+## 📧 Me contacter
 
 <p align="left">
   <a href="https://hatimou.dev-teams.me" target="_blank" rel="noreferrer">
