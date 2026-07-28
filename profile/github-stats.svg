@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">YERIMA Hatimou-Nabina's GitHub Stats, Rank: B-</title>
+        <title id="titleId">YERIMA Hatimou-Nabina&#39;s GitHub Stats, Rank: B-</title>
         <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 18, Total PRs: 252, Total Issues: 10, Contributed to (last year): 3</desc>
         <style>
           .header {
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >YERIMA Hatimou-Nabina's GitHub Stats</text>
+      >YERIMA Hatimou-Nabina&#39;s GitHub Stats</text>
     </g>
       </g>
     
